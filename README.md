@@ -11,9 +11,7 @@
 
 - 💬 Ask me about **MERN, DSA, Me**
 
-- 📫 How to reach me **samarthsingh890.ss@gmail.com**
-
-- 📄 Know about my experiences [after meeting me](after meeting me)
+- 📫 Reach me at **samarthsingh890.ss@gmail.com**
 
 - ⚡ Fun fact **I think am awesome**
 
