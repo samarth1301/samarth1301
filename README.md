@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, Am Samarth</h1>
-<h3 align="center">An awesome full-stack developer from India</h3>
+<h3 align="center">A full-stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarth1301&label=Profile%20views&color=0e75b6&style=flat" alt="samarth1301" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JAVA**
 
-- 👨‍💻 All of my projects are available at myGithub
+- 👨‍💻 All of my projects are available at my Github
 
 - 💬 Ask me about **MERN, DSA, Me**
 
