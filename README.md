@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JAVA**
 
-- 👨‍💻 All of my projects are available at (my github)
+- 👨‍💻 All of my projects are available at [mygithub]
 
 - 💬 Ask me about **MERN, DSA, Me**
 
