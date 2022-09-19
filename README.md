@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at my Github
 
-- 💬 Ask me about **MERN, DSA, and laptops**
+- 💬 Ask me about **MERN, DSA, and tech**
 
 - 📫 Reach me at **samarthsingh890.ss@gmail.com**
 
