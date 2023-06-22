@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samarth1301" alt="samarth1301" /></a> </p>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Graphs**
 
 - 👨‍💻 All of my projects are available at my Github
 
-- 💬 Ask me about **MERN, DSA, and tech**
+- 💬 Ask me about **MERN,AWS , DSA, and Bikes**
 
 - 📫 Reach me at **samarthsingh890.ss@gmail.com**
 
-- ⚡ Fun fact **I think am awesome**
+- ⚡ Fun fact **I use humor as my defence mechanism**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
