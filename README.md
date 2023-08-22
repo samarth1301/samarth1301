@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samarth1301" alt="samarth1301" /></a> </p>
 
-- 🌱 I’m currently learning **Graphs**
+- 🌱 I’m currently learning **Finance Management**
 
 - 👨‍💻 All of my projects are available at my Github
 
