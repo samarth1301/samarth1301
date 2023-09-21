@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at my Github
 
-- 💬 Ask me about **MERN,AWS , DSA, and Bikes**
+- 💬 Ask me about **MERN, AWS, DSA, and Bikes**
 
 - 📫 Reach me at **samarthsingh890.ss@gmail.com**
 
-- ⚡ Fun fact **I use humor as my defence mechanism**
+- ⚡ Fun fact **I have very bad hand-writing so I chose coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
